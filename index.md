@@ -49,12 +49,7 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 # All Publications
 (#: Equal Contribution)
 
-## First Author  
-### Preprint  
-  1. Layer-Wise Cross-View Decoding for Sequence-to-Sequence Learning  
-  **Fenglin Liu**#, Xuancheng Ren#, Guangxiang Zhao, Xu Sun, Liangyou Li  
-  [[Preprint]](https://arxiv.org/abs/2005.08081)   
-  
+## First Author    
 ### Journal  
   1. DiMBERT: Learning Vision-Language Grounded Representations with Disentangled Multimodal-Attention  
   **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
@@ -62,8 +57,12 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 
 ### Conference
 
-* **2021**  
-  1. Audio-Oriented Multimodal Machine Comprehension via Dynamic Inter- and Intra-modality Attention  
+* **2021**    
+  1. Layer-Wise Cross-View Decoding for Sequence-to-Sequence Learning  
+  **Fenglin Liu**#, Xuancheng Ren#, Guangxiang Zhao, Xu Sun, Liangyou Li  
+  [[Preprint]](https://arxiv.org/abs/2005.08081)   
+  
+  2. Audio-Oriented Multimodal Machine Comprehension via Dynamic Inter- and Intra-modality Attention  
   Zhiqi Huang#, **Fenglin Liu**#, Xian Wu, Shen Ge, Helin Wang, Wei Fan, Yuexian Zou  
   In AAAI 2021  
 
