@@ -10,14 +10,6 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 * **Machine Learning**
   * Machine Learning for Language
   * Representation Learning
-
-# Experiences
-
-* **Jan. 2018 - Now.**  
-  * Research Assistant: [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/), [Institute of Computational Linguistics](http://icl.pku.edu.cn/), [Peking University](http://www.pku.edu.cn/). Advisor: [Prof. Xu Sun](http://xusun.org/)
-  
-* **Jan. 2019 - Now.**  
-  * Research Intern: Medical AI Lab, CSIG, [Tencent](https://www.tencent.com/). Advisor: [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ) and [Wei Fan](https://scholar.google.com/citations?user=QvAC0OEAAAAJ)
  
 # Selected Publications
 (#: Equal Contribution)  
