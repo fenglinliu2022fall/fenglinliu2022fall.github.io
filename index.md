@@ -98,7 +98,7 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   In AAAI 2021  
  
   2. Federated Learning for Spoken Language Understanding  
-  Zhiqi Huang#, **Fenglin Liu**#, Yuexian Zou  
+  Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
   In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING_2020_Federated_Learning_for_Spoken_Language_Understanding__Final_.pdf)  
   
   3. PIN: A Novel Parallel Interactive Network for Spoken Language Understanding  
