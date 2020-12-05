@@ -1,8 +1,6 @@
 # Biography
 Fenglin Liu is a graduate student at Peking University. His research interests include Natural Language Processing and Deep Learning. Currently, he works on: 1) Representation Learning for Multi-Modal (especially visual) NLP; 2) Multi-Modal (especially visual) Natural Language Generation; 3) Unsupervised Learning for NLP.
 
-* **Note**: Actively seeking for Ph.D. opportunity starting from 2022 Fall. Feel free to reach out to me if you are interested.
-
 # Research Interests
 
 * **Natural Language Processing && Computer Vision**
@@ -12,13 +10,6 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 * **Machine Learning**
   * Machine Learning for Language
   * Representation Learning
-  
-# Educations
-
-- **Sept. 2019 - Now.**  
-  Master Student, Majoring in Computer Science, Peking University.  
-- **Sept. 2015 - Jul. 2019**  
-  Bachelor of Communication Engineering, Beijing University of Posts and Telecommunications.
 
 # Experiences
 
