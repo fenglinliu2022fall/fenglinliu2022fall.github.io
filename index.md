@@ -1,14 +1,13 @@
 # Biography
 Fenglin Liu is a graduate student at Peking University. His research interests include Natural Language Processing and Deep Learning. Currently, he works on: 1) Representation Learning for Multi-Modal (especially visual) NLP; 2) Multi-Modal (especially visual) Natural Language Generation; 3) Unsupervised Learning for NLP.
 
-* **Note**: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall. Feel free to reach out to me if you are interested.
+* **Note**: Actively seeking for Ph.D. opportunity starting from 2022 Fall. Feel free to reach out to me if you are interested.
 
 # Research Interests
 
 * **Natural Language Processing && Computer Vision**
   * Vision and Language
   * Medical Report Generation
-  * Dialogue
   
 * **Machine Learning**
   * Machine Learning for Language
@@ -31,35 +30,45 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 
   
 # Emails
-* fenglinliu98@pku.edu.cn 
-* fenglinliu98@gmail.com 
-* lfl@bupt.edu.cn
+* fenglinliu98@pku.edu.cn
+ 
+# Selected Publications
+(#: Equal Contribution)  
+  1. Prophet Attention: Predicting Attention with Future Attention  
+  **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
+  In NeurIPS 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/NeurIPS2020__Prophet_Attention___Camera_Ready.pdf) [[code]](https://github.com/fenglinliu98/ProphetAttention)  
+
+  2. Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations  
+  **Fenglin Liu**#, Yuanxin Liu#, Xuancheng Ren#, Xiaodong He, Xu Sun  
+  In NeurIPS 2019 [[pdf]](https://papers.nips.cc/paper/8909-aligning-visual-regions-and-textual-concepts-for-semantic-grounded-image-representations.pdf) [[code]](https://github.com/fenglinliu98/MIA) [[poster]](https://github.com/fenglinliu98/MIA/blob/master/NeurIPS2019_MIA_poster.pdf)
   
-# Selected Publications (First Author)
+  3. simNet: Stepwise Image-Topic Merging Network for Generating Detailed and Comprehensive Image Captions  
+  **Fenglin Liu**#, Xuancheng Ren#, Yuanxin Liu, Houfeng Wang, Xu Sun  
+  In EMNLP 2018 (**Oral**) [[pdf]](http://aclweb.org/anthology/D18-1013) [[code]](https://github.com/lancopku/simNet) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/simNet-EMNLP2018-slides.pptx)  
+  
+  4. Federated Learning for Vision-and-Language Grounding Problems  
+  **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou  
+  In AAAI 2020 (**Oral**) [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/02/AAAI-FenglinL.pdf) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/Federated_Learning-AAAI2020-slides.pptx) 
+  
+# All Publications
 (#: Equal Contribution)
-* **Preprint**  
+
+## First Author  
+### Preprint  
   1. Layer-Wise Cross-View Decoding for Sequence-to-Sequence Learning  
   **Fenglin Liu**#, Xuancheng Ren#, Guangxiang Zhao, Xu Sun, Liangyou Li  
-  [[Preprint]](https://arxiv.org/abs/2005.08081)  
-
-  2. Towards Data Distillation for End-to-end Spoken Conversational Question Answering  
-  Chenyu You, Nuo Chen, **Fenglin Liu**, Dongchao Yang, Yuexian Zou  
-  [[Preprint]]
-
-* **Journal**  
+  [[Preprint]](https://arxiv.org/abs/2005.08081)   
+  
+### Journal  
   1. DiMBERT: Learning Vision-Language Grounded Representations with Disentangled Multimodal-Attention  
   **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
   In T-KDD 2021  
 
-* **Conference**  
+### Conference
 
 * **2021**  
   1. Audio-Oriented Multimodal Machine Comprehension via Dynamic Inter- and Intra-modality Attention  
   Zhiqi Huang#, **Fenglin Liu**#, Xian Wu, Shen Ge, Helin Wang, Wei Fan, Yuexian Zou  
-  In AAAI 2021  
-
-  2. Non-Autoregressive Coarse-to-Fine Video Captioning  
-  Bang Yang, **Fenglin Liu**, Can Zhang, Yuexian Zou  
   In AAAI 2021  
 
 * **2020**  
@@ -79,13 +88,6 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   **Fenglin Liu**#, Xuancheng Ren#, Zhiyuan Zhang, Xu Sun  
   In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING2020__rSkip_LN.pdf)  
   
-  5. Federated Learning for Spoken Language Understanding  
-  Zhiqi Huang#, **Fenglin Liu**#, Yuexian Zou  
-  In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING_2020_Federated_Learning_for_Spoken_Language_Understanding__Final_.pdf)  
-
-  5. PIN: A Novel Parallel Interactive Network for Spoken Language Understanding  
-  Peilin Zhou, Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
-  In ICPR 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/06/PIN.pdf)  
 
 * **2019**  
 
@@ -104,10 +106,7 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   4. Self-Adaptive Scaling for Learnable Residual Structure  
   **Fenglin Liu**, Meng Gao, Yuanxin Liu, Kai Lei  
   In CoNLL 2019 [[pdf]](https://www.aclweb.org/anthology/K19-1080/)  
-
-  5. Generating Paraphrase with Topic as Prior Knowledge  
-  Yuanxin Liu, Zheng Lin, **Fenglin Liu**, Qinyun Dai, Weiping Wang  
-  In CIKM 2019 [[pdf]](https://dl.acm.org/doi/10.1145/3357384.3358102)  
+ 
  
 * **2018**  
 
@@ -115,12 +114,34 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   **Fenglin Liu**#, Xuancheng Ren#, Yuanxin Liu, Houfeng Wang, Xu Sun  
   In EMNLP 2018 (**Oral**) [[pdf]](http://aclweb.org/anthology/D18-1013) [[code]](https://github.com/lancopku/simNet) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/simNet-EMNLP2018-slides.pptx)  
 
+## Co-Author    
+  1. Non-Autoregressive Coarse-to-Fine Video Captioning  
+  Bang Yang, **Fenglin Liu**, Can Zhang, Yuexian Zou  
+  In AAAI 2021  
+ 
+  2. Federated Learning for Spoken Language Understanding  
+  Zhiqi Huang#, **Fenglin Liu**#, Yuexian Zou  
+  In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING_2020_Federated_Learning_for_Spoken_Language_Understanding__Final_.pdf)  
+  
+  3. PIN: A Novel Parallel Interactive Network for Spoken Language Understanding  
+  Peilin Zhou, Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
+  In ICPR 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/06/PIN.pdf)  
+  
+  4. Generating Paraphrase with Topic as Prior Knowledge  
+  Yuanxin Liu, Zheng Lin, **Fenglin Liu**, Qinyun Dai, Weiping Wang  
+  In CIKM 2019 [[pdf]](https://dl.acm.org/doi/10.1145/3357384.3358102)  
+    
+  5. Towards Data Distillation for End-to-end Spoken Conversational Question Answering  
+  Chenyu You, Nuo Chen, **Fenglin Liu**, Dongchao Yang, Yuexian Zou  
+  [[Preprint]]  
+  
+  
 # Services
-* **Program Committee Member:** [ICLR 2021](https://iclr.cc/Conferences/2021/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc), [AACL-IJCNLP 2020](http://aacl2020.org)
+* **Program Committee Member:** [ACL 2021](https://2021.aclweb.org/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc), [AACL-IJCNLP 2020](http://aacl2020.org)
 
 # Honors & Awards
-* **National Scholarship**, Peking University, 2020.
-* **Academic Excellence Award**, Peking University, 2020.
-* **Top-10 Students**, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, 2019.
-* **Outstanding Undergraduate Student**, Beijing, 2019.
-* **Outstanding Undergraduate Thesis**, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, 2019.
+* **National Scholarship**, Peking University, China, 2020.
+* **Academic Excellence Award**, Peking University, China, 2020.
+* **Top-10 Students**, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, China, 2019.
+* **Outstanding Undergraduate Student**, Beijing, China, 2019.
+* **Outstanding Undergraduate Thesis**, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, China, 2019.
