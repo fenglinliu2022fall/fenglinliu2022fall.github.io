@@ -27,10 +27,6 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   
 * **Jan. 2019 - Now.**  
   * Research Intern: Medical AI Lab, CSIG, [Tencent](https://www.tencent.com/). Advisor: [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ) and [Wei Fan](https://scholar.google.com/citations?user=QvAC0OEAAAAJ)
-
-  
-# Emails
-* fenglinliu98@pku.edu.cn
  
 # Selected Publications
 (#: Equal Contribution)  
