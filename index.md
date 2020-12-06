@@ -24,10 +24,18 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   3. simNet: Stepwise Image-Topic Merging Network for Generating Detailed and Comprehensive Image Captions  
   **Fenglin Liu**#, Xuancheng Ren#, Yuanxin Liu, Houfeng Wang, Xu Sun  
   In EMNLP 2018 (**Oral**) [[pdf]](http://aclweb.org/anthology/D18-1013) [[code]](https://github.com/lancopku/simNet) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/simNet-EMNLP2018-slides.pptx)  
+
+  4. Audio-Oriented Multimodal Machine Comprehension via Dynamic Inter- and Intra-modality Attention  
+  Zhiqi Huang#, **Fenglin Liu**#, Xian Wu, Shen Ge, Helin Wang, Wei Fan, Yuexian Zou  
+  In AAAI 2021  
   
-  4. Federated Learning for Vision-and-Language Grounding Problems  
+  5. Federated Learning for Vision-and-Language Grounding Problems  
   **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou  
   In AAAI 2020 (**Oral**) [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/02/AAAI-FenglinL.pdf) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/Federated_Learning-AAAI2020-slides.pptx) 
+  
+  6. Exploring and Distilling Cross-Modal Information for Image Captioning  
+  **Fenglin Liu**#, Xuancheng Ren#, Yuanxin Liu, Kai Lei, Xu Sun  
+  In IJCAI 2019 (**Oral**) [[pdf]](https://www.ijcai.org/proceedings/2019/708) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/GLIED-IJCAI2019-slides.pptx)  
   
 # All Publications
 (#: Equal Contribution)
