@@ -70,7 +70,7 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   **Fenglin Liu**, Xian Wu, Shen Ge, Xiaoyu Zhang, Wei Fan, Yuexian Zou  
   In ACM MM 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/09/ACM_MM2020_mmfp0774.pdf)
   
-  4. Rethinking Residual Connection with Layer Normalization  
+  4. Rethinking Skip Connection with Layer Normalization  
   **Fenglin Liu**#, Xuancheng Ren#, Zhiyuan Zhang, Xu Sun  
   In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING2020__rSkip_LN.pdf)  
   
