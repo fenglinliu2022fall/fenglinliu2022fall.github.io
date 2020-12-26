@@ -46,7 +46,7 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 
   #12. DiMBERT: Learning Vision-Language Grounded Representations with Disentangled Multimodal-Attention  
   **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
-  In T-KDD 2021  
+  In TKDD 2021  
 
 ### Conference
 
