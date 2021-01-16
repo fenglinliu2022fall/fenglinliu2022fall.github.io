@@ -43,10 +43,10 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 * **Program Committee Member:** [ICML 2021](https://icml.cc/Conferences/2021), [CVPR 2021](http://cvpr2021.thecvf.com/), [ACL 2021](https://2021.aclweb.org/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc/Conferences/2020), [AACL-IJCNLP 2020](http://aacl2020.org)  
 
 # Honors & Awards
-* **Academic Excellence Award** (0.6%), Peking University, China, 2020.
-* **National Scholarship** (3.0%), Peking University, China, 2020.
-* **Pacemaker to Merit Student** (1.5%), Peking University, China, 2020.
-* **Top-10 Students** (1.0%), Beijing University of Posts and Telecommunications, China, 2019.
+* **Academic Excellence Award (0.6%)**, Peking University, China, 2020.
+* **National Scholarship (3.0%)**, Peking University, China, 2020.
+* **Pacemaker to Merit Student (1.5%)**, Peking University, China, 2020.
+* **Top-10 Students (1.0%)**, Beijing University of Posts and Telecommunications, China, 2019.
 * **Outstanding Undergraduate Student**, Beijing, China, 2019.
 * **Outstanding Undergraduate Thesis**, Beijing University of Posts and Telecommunications, China, 2019.
 
