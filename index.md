@@ -119,9 +119,18 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   In EMNLP 2018 (**Oral**) [[pdf]](http://aclweb.org/anthology/D18-1013) [[code]](https://github.com/lancopku/simNet) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/simNet-EMNLP2018-slides.pptx)  
 
 ## Co-Author    
-  #5. Non-Autoregressive Coarse-to-Fine Video Captioning  
+
+  #7. Non-Autoregressive Coarse-to-Fine Video Captioning  
   Bang Yang, **Fenglin Liu**, Can Zhang, Yuexian Zou  
   In AAAI 2021  
+  
+  #6. Adaptive Bi-Directional Attention: Exploring Multi-Granularity Representations For Machine Reading Comprehension  
+  Nuo Chen, **Fenglin Liu**, Chenyu You, Peilin Zhou, Yuexian Zou  
+  In ICASSP 2021  
+  
+  #5. Sentiment Injected Iteratively Co-Interactive Network For Spoken Language Understanding  
+  hiqi Huang, **Fenglin Liu**, Peilin Zhou, Yuexian Zou  
+  In ICASSP 2021  
  
   #4. Federated Learning for Spoken Language Understanding  
   Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
