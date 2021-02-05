@@ -124,12 +124,12 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   Bang Yang, **Fenglin Liu**, Can Zhang, Yuexian Zou  
   In AAAI 2021  
   
-  #6. Adaptive Bi-Directional Attention: Exploring Multi-Granularity Representations For Machine Reading Comprehension  
+  #6. Adaptive Bi-Directional Attention: Exploring Multi-Granularity Representations for Machine Reading Comprehension  
   Nuo Chen, **Fenglin Liu**, Chenyu You, Peilin Zhou, Yuexian Zou  
   In ICASSP 2021  
   
-  #5. Sentiment Injected Iteratively Co-Interactive Network For Spoken Language Understanding  
-  hiqi Huang, **Fenglin Liu**, Peilin Zhou, Yuexian Zou  
+  #5. Sentiment Injected Iteratively Co-Interactive Network for Spoken Language Understanding  
+  Zhiqi Huang, **Fenglin Liu**, Peilin Zhou, Yuexian Zou  
   In ICASSP 2021  
  
   #4. Federated Learning for Spoken Language Understanding  
