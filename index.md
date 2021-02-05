@@ -58,18 +58,16 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 (#: Equal Contribution)
 
 ## First Author    
-### Journal  
-
-  #12. DiMBERT: Learning Vision-Language Grounded Representations with Disentangled Multimodal-Attention  
-  **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
-  In ACM Transactions on Knowledge Discovery from Data (TKDD) 2021  
-
-### Conference
 
 * **2021**    
-  #11. Layer-Wise Cross-View Decoding for Sequence-to-Sequence Learning  
+  #12. Layer-Wise Cross-View Decoding for Sequence-to-Sequence Learning  
   **Fenglin Liu**#, Xuancheng Ren#, Guangxiang Zhao, Xu Sun, Liangyou Li  
   [[Preprint]](https://arxiv.org/abs/2005.08081)   
+  
+
+  #11. DiMBERT: Learning Vision-Language Grounded Representations with Disentangled Multimodal-Attention  
+  **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
+  In ACM Transactions on Knowledge Discovery from Data (TKDD) 2021  
   
   #10. Audio-Oriented Multimodal Machine Comprehension via Dynamic Inter- and Intra-modality Attention  
   Zhiqi Huang#, **Fenglin Liu**#, Xian Wu, Shen Ge, Helin Wang, Wei Fan, Yuexian Zou  
@@ -119,31 +117,31 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   In EMNLP 2018 (**Oral**) [[pdf]](http://aclweb.org/anthology/D18-1013) [[code]](https://github.com/lancopku/simNet) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/simNet-EMNLP2018-slides.pptx)  
 
 ## Co-Author    
-
-  #7. Non-Autoregressive Coarse-to-Fine Video Captioning  
+    
+  #7. Towards Data Distillation for End-to-end Spoken Conversational Question Answering  
+  Chenyu You, Nuo Chen, **Fenglin Liu**, Dongchao Yang, Yuexian Zou  
+  [[Preprint]]  
+  
+  #6. Non-Autoregressive Coarse-to-Fine Video Captioning  
   Bang Yang, **Fenglin Liu**, Can Zhang, Yuexian Zou  
   In AAAI 2021  
   
-  #6. Adaptive Bi-Directional Attention: Exploring Multi-Granularity Representations for Machine Reading Comprehension  
+  #5. Adaptive Bi-Directional Attention: Exploring Multi-Granularity Representations for Machine Reading Comprehension  
   Nuo Chen, **Fenglin Liu**, Chenyu You, Peilin Zhou, Yuexian Zou  
   In ICASSP 2021  
   
-  #5. Sentiment Injected Iteratively Co-Interactive Network for Spoken Language Understanding  
+  #4. Sentiment Injected Iteratively Co-Interactive Network for Spoken Language Understanding  
   Zhiqi Huang, **Fenglin Liu**, Peilin Zhou, Yuexian Zou  
   In ICASSP 2021  
  
-  #4. Federated Learning for Spoken Language Understanding  
+  #3. Federated Learning for Spoken Language Understanding  
   Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
   In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING_2020_Federated_Learning_for_Spoken_Language_Understanding__Final_.pdf)  
   
-  #3. PIN: A Novel Parallel Interactive Network for Spoken Language Understanding  
+  #2. PIN: A Novel Parallel Interactive Network for Spoken Language Understanding  
   Peilin Zhou, Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
   In ICPR 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/06/PIN.pdf)  
   
-  #2. Generating Paraphrase with Topic as Prior Knowledge  
+  #1. Generating Paraphrase with Topic as Prior Knowledge  
   Yuanxin Liu, Zheng Lin, **Fenglin Liu**, Qinyun Dai, Weiping Wang  
   In CIKM 2019 [[pdf]](https://dl.acm.org/doi/10.1145/3357384.3358102)  
-    
-  #1. Towards Data Distillation for End-to-end Spoken Conversational Question Answering  
-  Chenyu You, Nuo Chen, **Fenglin Liu**, Dongchao Yang, Yuexian Zou  
-  [[Preprint]]  
