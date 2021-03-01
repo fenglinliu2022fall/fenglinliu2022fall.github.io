@@ -1,5 +1,7 @@
 # Biography
-Fenglin Liu is a Master student at Peking University. His research interests include Natural Language Processing and Deep Learning. Currently, he works on: 1) Multi-Modal (especially visual) Natural Language Generation; 2) Representation Learning for Multi-Modal (especially visual) NLP; 3) Unsupervised Learning for NLP. He has published over ten papers in premier AI conferences and has provided seven reviews for premier AI conferences.
+Fenglin Liu is a Master student at Peking University. His research interests include Natural Language Processing and Deep Learning. Currently, he works on: 1) Multi-Modal (especially visual) Natural Language Generation; 2) Representation Learning for Multi-Modal (especially visual) NLP; 3) Unsupervised Learning for NLP.  
+
+He has published over ten papers in premier AI conferences and has provided seven reviews for premier AI conferences.
 
 # Research Interests
 
