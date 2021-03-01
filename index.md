@@ -20,7 +20,7 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
   
   #7. Prophet Attention: Predicting Attention with Future Attention  
   **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
-  In NeurIPS 2020 [pdf](https://proceedings.neurips.cc/paper/2020/file/13fe9d84310e77f13a6d184dbf1232f3-Paper.pdf) [[code]](https://github.com/fenglinliu98/ProphetAttention) [ppt](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pptx) [poster](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pdf)  
+  In NeurIPS 2020 [[pdf]](https://proceedings.neurips.cc/paper/2020/file/13fe9d84310e77f13a6d184dbf1232f3-Paper.pdf) [[code]](https://github.com/fenglinliu98/ProphetAttention) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pptx) [[poster]](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pdf)  
 
   #6. Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations  
   **Fenglin Liu**#, Yuanxin Liu#, Xuancheng Ren#, Xiaodong He, Xu Sun  
@@ -83,7 +83,7 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 * **2020**  
   #9. Prophet Attention: Predicting Attention with Future Attention  
   **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
-  In NeurIPS 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/NeurIPS2020__Prophet_Attention___Camera_Ready.pdf) [[code]](https://github.com/fenglinliu98/ProphetAttention)  
+  In NeurIPS 2020 [[pdf]](https://proceedings.neurips.cc/paper/2020/file/13fe9d84310e77f13a6d184dbf1232f3-Paper.pdf) [[code]](https://github.com/fenglinliu98/ProphetAttention) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pptx) [[poster]](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pdf)  
   
   #8. Federated Learning for Vision-and-Language Grounding Problems  
   **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou  
