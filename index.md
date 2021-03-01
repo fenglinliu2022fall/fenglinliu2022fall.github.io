@@ -1,7 +1,7 @@
 # Biography
 Fenglin Liu is a Master student at Peking University. His research interests include Natural Language Processing and Deep Learning. Currently, he works on: 1) Multi-Modal (especially visual) Natural Language Generation; 2) Representation Learning for Multi-Modal (especially visual) NLP; 3) Unsupervised Learning for NLP.  
 
-He has published over ten papers in premier AI conferences and has been invited to contribute to seven premier AI conferences as a Senior Program Committee member (SPC) or Program Committee member (PC).
+He has published over ten papers in premier AI conferences as the first author and has been invited to contribute to seven premier AI conferences as a Senior Program Committee member/Program Committee member/Reviewer.
 
 # Research Interests
 
@@ -50,7 +50,7 @@ He has published over ten papers in premier AI conferences and has been invited 
 
 # Services
 * **Senior Program Committee Member:** [IJCAI 2021](https://ijcai-21.org/)  
-* **Program Committee Member:** [ICCV 2021](http://iccv2021.thecvf.com/), [ICML 2021](https://icml.cc/Conferences/2021), [CVPR 2021](http://cvpr2021.thecvf.com/), [ACL 2021](https://2021.aclweb.org/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc/Conferences/2020), [AACL-IJCNLP 2020](http://aacl2020.org)  
+* **Program Committee Member/Reviewer:** [ICCV 2021](http://iccv2021.thecvf.com/), [ICML 2021](https://icml.cc/Conferences/2021), [CVPR 2021](http://cvpr2021.thecvf.com/), [ACL 2021](https://2021.aclweb.org/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc/Conferences/2020), [AACL-IJCNLP 2020](http://aacl2020.org)  
 
 # Honors & Awards
 * **Exceptional Award for Academic Innovation (0.6%)**, Peking University, China, 2020.
@@ -117,7 +117,6 @@ He has published over ten papers in premier AI conferences and has been invited 
   #2. Self-Adaptive Scaling for Learnable Residual Structure  
   **Fenglin Liu**, Meng Gao, Yuanxin Liu, Kai Lei  
   In CoNLL 2019 [[pdf]](https://www.aclweb.org/anthology/K19-1080/)  
- 
  
 * **2018**  
 
