@@ -14,9 +14,13 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 # Selected Publications
 (#: Equal Contribution)  
 
+  #8. Exploring and Distilling Posterior and Prior Knowledge for Medical Report Generation  
+  **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou  
+  In CVPR 2021  
+  
   #7. Prophet Attention: Predicting Attention with Future Attention  
   **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
-  In NeurIPS 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/NeurIPS2020__Prophet_Attention___Camera_Ready.pdf) [[code]](https://github.com/fenglinliu98/ProphetAttention)  
+  In NeurIPS 2020 [pdf](https://proceedings.neurips.cc/paper/2020/file/13fe9d84310e77f13a6d184dbf1232f3-Paper.pdf) [[code]](https://github.com/fenglinliu98/ProphetAttention) [ppt](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pptx) [poster](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pdf)  
 
   #6. Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations  
   **Fenglin Liu**#, Yuanxin Liu#, Xuancheng Ren#, Xiaodong He, Xu Sun  
@@ -44,7 +48,7 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 
 # Services
 * **Senior Program Committee Member:** [IJCAI 2021](https://ijcai-21.org/)  
-* **Program Committee Member:** [ICML 2021](https://icml.cc/Conferences/2021), [CVPR 2021](http://cvpr2021.thecvf.com/), [ACL 2021](https://2021.aclweb.org/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc/Conferences/2020), [AACL-IJCNLP 2020](http://aacl2020.org)  
+* **Program Committee Member:** [ICCV 2021](http://iccv2021.thecvf.com/), [ICML 2021](https://icml.cc/Conferences/2021), [CVPR 2021](http://cvpr2021.thecvf.com/), [ACL 2021](https://2021.aclweb.org/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc/Conferences/2020), [AACL-IJCNLP 2020](http://aacl2020.org)  
 
 # Honors & Awards
 * **Exceptional Award for Academic Innovation (0.6%)**, Peking University, China, 2020.
@@ -59,12 +63,15 @@ Fenglin Liu is a graduate student at Peking University. His research interests i
 
 ## First Author    
 
-* **2021**    
+* **2021**  
+  #13. Exploring and Distilling Posterior and Prior Knowledge for Medical Report Generation  
+  **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou  
+  In CVPR 2021  
+  
   #12. Layer-Wise Cross-View Decoding for Sequence-to-Sequence Learning  
   **Fenglin Liu**#, Xuancheng Ren#, Guangxiang Zhao, Xu Sun, Liangyou Li  
   [[Preprint]](https://arxiv.org/abs/2005.08081)   
   
-
   #11. DiMBERT: Learning Vision-Language Grounded Representations with Disentangled Multimodal-Attention  
   **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
   In ACM Transactions on Knowledge Discovery from Data (TKDD) 2021  
