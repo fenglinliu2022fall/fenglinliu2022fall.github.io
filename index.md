@@ -1,7 +1,7 @@
 # Biography
 Fenglin Liu is a Master student at Peking University. His research interests include Natural Language Processing and Deep Learning. Currently, he works on: 1) Multi-Modal (especially visual) Natural Language Generation; 2) Representation Learning for Multi-Modal (especially visual) NLP; 3) Unsupervised Learning for NLP.  
 
-He has published over ten papers in premier AI conferences as the first author and has been invited to contribute to seven premier AI conferences as a Senior Program Committee member/Program Committee member/Reviewer.
+He has published over ten papers in premier AI conferences as the first author (e.g., NeurIPS, CVPR, EMNLP, AAAI, IJCAI, ACMMM) and has been invited to contribute to almost all premier AI conferences as a Senior Program Committee member/Program Committee member/Reviewer (i.e., ICML, NeurIPS, ICLR, CVPR, ICCV, ACL, AAAI, IJCAI).
 
 # Research Interests
 
