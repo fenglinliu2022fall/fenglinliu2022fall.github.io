@@ -10,7 +10,7 @@ He has published over ten papers in premier AI conferences as the first author (
   * Medical Report Generation
   
 * **Machine Learning**
-  * Machine Learning for Language
+  * Unsupervised Learning for Language
   * Representation Learning
  
 # Selected Publications
