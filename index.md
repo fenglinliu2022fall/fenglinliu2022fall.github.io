@@ -1,5 +1,5 @@
 # Biography
-Fenglin Liu is a Master student at Peking University. His research interests include Natural Language Processing and Deep Learning. Currently, he works on: 1) Multi-Modal (especially visual) Natural Language Generation; 2) Representation Learning for Multi-Modal (especially visual) NLP; 3) Unsupervised Learning for NLP.  
+Fenglin Liu is a Master student at Peking University. His research interests include Computational Biology, Machine Learning and Artificial Intelligence. Currently, he works on: 1) Medical Image Computing; 2) Representation/Unsupervised Learning for Multi-Modal (especially visual) NLP; 3) Natural Language Processing and Generation.
 
 He has published over ten papers in premier AI conferences as the first author (e.g., NeurIPS, CVPR, EMNLP, AAAI, IJCAI, ACMMM) and has been invited to contribute to most premier AI conferences as a Senior Program Committee member/Program Committee member/Reviewer (i.e., ICML, NeurIPS, ICLR, CVPR, ICCV, ACL, AAAI, IJCAI).
 
@@ -7,32 +7,26 @@ He has published over ten papers in premier AI conferences as the first author (
 * **Computational Biology**
   * Medical Image Computing  
 
-* **Natural Language Processing && Computer Vision**
-  * Vision and Language
-  * Medical Report Generation
-  
 * **Machine Learning**
-  * Unsupervised Learning
   * Representation Learning
+  * Unsupervised Learning
 
+* **Artificial Intelligence**
+  * Multimodal Learning
+  * Natural Language Processing
+  
 # Educations
-
 - **Sept. 2019 - Now.**  
   Master Student, Majoring in Computer Science, Peking University.  
 - **Sept. 2015 - Jul. 2019**  
   Bachelor of Communication Engineering, Beijing University of Posts and Telecommunications.
 
 # Experiences
-
 * **Jan. 2018 - Now.**  
   * Research Assistant: [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/), [Institute of Computational Linguistics](http://icl.pku.edu.cn/), [Peking University](http://www.pku.edu.cn/). Advisor: [Prof. Xu Sun](http://xusun.org/)
   
 * **Jan. 2019 - Now.**  
   * Research Intern: Medical AI Lab, [Tencent](https://www.tencent.com/). Advisor: [Wei Fan](https://scholar.google.com/citations?user=QvAC0OEAAAAJ) and [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ)
-
-# Services
-* **Senior Program Committee Member:** [IJCAI 2021](https://ijcai-21.org/)  
-* **Program Committee Member/Reviewer:** [ICCV 2021](http://iccv2021.thecvf.com/), [ICML 2021](https://icml.cc/Conferences/2021), [CVPR 2021](http://cvpr2021.thecvf.com/), [ACL 2021](https://2021.aclweb.org/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc/Conferences/2020), [AACL-IJCNLP 2020](http://aacl2020.org)  
 
 # Honors & Awards
 * **Exceptional Award for Academic Innovation (0.6%)**, Peking University, China, 2020.
@@ -41,6 +35,10 @@ He has published over ten papers in premier AI conferences as the first author (
 * **Top-10 Students (1.0%)**, Beijing University of Posts and Telecommunications, China, 2019.
 * **Outstanding Undergraduate Student**, Beijing, China, 2019.
 * **Outstanding Undergraduate Thesis**, Beijing University of Posts and Telecommunications, China, 2019.
+
+# Services
+* **Senior Program Committee Member:** [IJCAI 2021](https://ijcai-21.org/)  
+* **Program Committee Member/Reviewer:** [ICCV 2021](http://iccv2021.thecvf.com/), [ICML 2021](https://icml.cc/Conferences/2021), [CVPR 2021](http://cvpr2021.thecvf.com/), [ACL 2021](https://2021.aclweb.org/), [ICLR 2021](https://iclr.cc/Conferences/2021/), [AAAI 2021](https://aaai.org/Conferences/AAAI-21/), [NeurIPS 2020](https://nips.cc/Conferences/2020), [AACL-IJCNLP 2020](http://aacl2020.org)  
 
 # Publications
 (#: Equal Contribution)
