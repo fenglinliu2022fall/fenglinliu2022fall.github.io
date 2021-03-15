@@ -22,11 +22,11 @@ He has published over ten papers in premier ML/AI conferences as the first autho
   Bachelor of Communication Engineering, Beijing University of Posts and Telecommunications.
 
 # Experiences
-* **Jan. 2018 - Now.**  
-  * Research Assistant: [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/), [Institute of Computational Linguistics](http://icl.pku.edu.cn/), [Peking University](http://www.pku.edu.cn/). Advisor: [Associate Professor: Xu Sun](http://xusun.org/)
-
 * **Jan. 2019 - Now.**  
   * Research Intern: Medical AI Lab, [Tencent](https://www.tencent.com/). Advisor: [Executive Director of Lab: Wei Fan](https://scholar.google.com/citations?user=QvAC0OEAAAAJ) and [Principal Researcher: Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ)
+
+* **Jan. 2018 - Now.**  
+  * Research Assistant: [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/), [Institute of Computational Linguistics](http://icl.pku.edu.cn/), [Peking University](http://www.pku.edu.cn/). Advisor: [Associate Professor: Xu Sun](http://xusun.org/)
 
 # Honors & Awards
 * **Exceptional Award for Academic Innovation (0.6%)**, Peking University, China, 2021.
