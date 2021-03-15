@@ -24,11 +24,13 @@ He has published over ten papers in premier ML/AI conferences as the first autho
 # Experiences
 * **Jan. 2018 - Now.**  
   * Research Assistant: [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/), [Institute of Computational Linguistics](http://icl.pku.edu.cn/), [Peking University](http://www.pku.edu.cn/). Advisor: [Associate Professor: Xu Sun](http://xusun.org/)
-  
+
 * **Jan. 2019 - Now.**  
-  * Research Intern: Medical AI Lab, [Tencent](https://www.tencent.com/). Advisor: [Executive Director of Medical AI Labs: Wei Fan](https://scholar.google.com/citations?user=QvAC0OEAAAAJ) and [Principal Researcher: Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ)
+  * Research Intern: Medical AI Lab, [Tencent](https://www.tencent.com/). Advisor: [Executive Director of Lab: Wei Fan](https://scholar.google.com/citations?user=QvAC0OEAAAAJ) and [Principal Researcher: Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ)
 
 # Honors & Awards
+* **Exceptional Award for Academic Innovation (0.6%)**, Peking University, China, 2021.
+* **National Scholarship (3.0%)**, Peking University, China, 2021.
 * **Exceptional Award for Academic Innovation (0.6%)**, Peking University, China, 2020.
 * **National Scholarship (3.0%)**, Peking University, China, 2020.
 * **Merit Student Pacesetter (1.5%)**, Peking University, China, 2020.
@@ -67,11 +69,11 @@ He has published over ten papers in premier ML/AI conferences as the first autho
 
   #5. Federated Learning for Vision-and-Language Grounding Problems  
   **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou  
-  In AAAI 2020 (**Oral**) [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/02/AAAI-FenglinL.pdf) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/Federated_Learning-AAAI2020-slides.pptx) 
+  In AAAI 2020 (**Oral**) [[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6824) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/AAAI2020-Federated_Learning-slides.pptx) 
 
   #4. Bridging the Gap between Vision and Language Domains for Improved Image Captioning  
   **Fenglin Liu**, Xian Wu, Shen Ge, Xiaoyu Zhang, Wei Fan, Yuexian Zou  
-  In ACM MM 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/09/ACM_MM2020_mmfp0774.pdf) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/ACMMM2020-Bridging.pptx)  
+  In ACM MM 2020 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3394171.3414004) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/ACMMM2020-Bridging-slides.pptx)  
 
   #3. Exploring and Distilling Cross-Modal Information for Image Captioning  
   **Fenglin Liu**#, Xuancheng Ren#, Yuanxin Liu, Kai Lei, Xu Sun  
@@ -96,7 +98,7 @@ He has published over ten papers in premier ML/AI conferences as the first autho
   
   #8. Rethinking Skip Connection with Layer Normalization  
   **Fenglin Liu**#, Xuancheng Ren#, Zhiyuan Zhang, Xu Sun  
-  In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING2020__rSkip_LN.pdf)
+  In COLING 2020 [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.320/)
 
   #7. Self-Adaptive Scaling for Learnable Residual Structure  
   **Fenglin Liu**, Meng Gao, Yuanxin Liu, Kai Lei  
@@ -116,11 +118,11 @@ He has published over ten papers in premier ML/AI conferences as the first autho
   
   #3. Federated Learning for Spoken Language Understanding  
   Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
-  In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING_2020_Federated_Learning_for_Spoken_Language_Understanding__Final_.pdf)  
+  In COLING 2020 [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.310/)  
   
   #2. PIN: A Novel Parallel Interactive Network for Spoken Language Understanding  
   Peilin Zhou, Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
-  In ICPR 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/06/PIN.pdf)  
+  In ICPR 2020 [[pdf]](https://arxiv.org/pdf/2009.13431.pdf)  
   
   #1. Generating Paraphrase with Topic as Prior Knowledge  
   Yuanxin Liu, Zheng Lin, **Fenglin Liu**, Qinyun Dai, Weiping Wang  
