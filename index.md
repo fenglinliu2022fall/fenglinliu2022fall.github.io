@@ -5,21 +5,21 @@ He has published over ten papers in premier ML/AI conferences as the first autho
 
 # Research Interests
 * **Computational Biology**
-* * Medical Image Computing  
+  * Medical Image Computing    
 * **Machine Learning**
-* * Representation Learning
-* * Unsupervised Learning
+  * Representation Learning
+  * Unsupervised Learning  
 * **Artificial Intelligence**
-* * Vision and Language  
-* * Natural Language Processing
+  * Vision and Language  
+  * Natural Language Processing
   
 # Educations
 * **Sept. 2019 - Now.**  
-* Master Student, Majoring in Computer Science, Peking University.
-* * GPA Rank: 1/103 (1.0%)
+  Master Student, Majoring in Computer Science, Peking University.
+  * GPA Rank: 1/103 (1.0%)
 * **Sept. 2015 - Jul. 2019**  
-* Bachelor of Communication Engineering, Beijing University of Posts and Telecommunications.
-* * GPA Rank: 6/597 (1.0%)
+  Bachelor of Communication Engineering, Beijing University of Posts and Telecommunications.
+  * GPA Rank: 6/597 (1.0%)
 
 # Experiences
 * **Jan. 2019 - Now.**  
