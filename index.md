@@ -48,80 +48,80 @@ He has published over ten papers in premier ML/AI conferences as the first autho
   In CVPR 2021  
 
 ## Machine Learning
-  #1. Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations  
-  **Fenglin Liu**#, Yuanxin Liu#, Xuancheng Ren#, Xiaodong He, Xu Sun  
-  In NeurIPS 2019 [[pdf]](https://papers.nips.cc/paper/8909-aligning-visual-regions-and-textual-concepts-for-semantic-grounded-image-representations.pdf) [[code]](https://github.com/fenglinliu98/MIA) [[poster]](https://github.com/fenglinliu98/MIA/blob/master/NeurIPS2019_MIA_poster.pdf)
-  
   #2. Prophet Attention: Predicting Attention with Future Attention  
   **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
-  In NeurIPS 2020 [[pdf]](https://proceedings.neurips.cc/paper/2020/file/13fe9d84310e77f13a6d184dbf1232f3-Paper.pdf) [[code]](https://github.com/fenglinliu98/ProphetAttention) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pptx) [[poster]](https://github.com/fenglinliu98/Slides-Posters/blob/master/ProphetAttention-NeurIPS2021-slides.pdf)  
+  In NeurIPS 2020 [[pdf]](https://proceedings.neurips.cc/paper/2020/file/13fe9d84310e77f13a6d184dbf1232f3-Paper.pdf) [[code]](https://github.com/fenglinliu2022fall/ProphetAttention) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/NeurIPS2020_ProphetAttention_slides.pptx) [[poster]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/NeurIPS2020_ProphetAttention_poster.pdf)  
+  
+  #1. Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations  
+  **Fenglin Liu**#, Yuanxin Liu#, Xuancheng Ren#, Xiaodong He, Xu Sun  
+  In NeurIPS 2019 [[pdf]](https://papers.nips.cc/paper/8909-aligning-visual-regions-and-textual-concepts-for-semantic-grounded-image-representations.pdf) [[code]](https://github.com/fenglinliu2022fall/MIA) [[poster]](https://github.com/fenglinliu2022fall/MIA/blob/master/NeurIPS2019_MIA_poster.pdf)
   
 ## Vision and Language
-  #1. simNet: Stepwise Image-Topic Merging Network for Generating Detailed and Comprehensive Image Captions  
-  **Fenglin Liu**#, Xuancheng Ren#, Yuanxin Liu, Houfeng Wang, Xu Sun  
-  In EMNLP 2018 (**Oral**) [[pdf]](http://aclweb.org/anthology/D18-1013) [[code]](https://github.com/lancopku/simNet) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/simNet-EMNLP2018-slides.pptx)  
-  
-  #2. Exploring and Distilling Cross-Modal Information for Image Captioning  
-  **Fenglin Liu**#, Xuancheng Ren#, Yuanxin Liu, Kai Lei, Xu Sun  
-  In IJCAI 2019 (**Oral**) [[pdf]](https://www.ijcai.org/proceedings/2019/708) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/GLIED-IJCAI2019-slides.pptx)  
-
-  #3. Federated Learning for Vision-and-Language Grounding Problems  
-  **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou  
-  In AAAI 2020 (**Oral**) [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/02/AAAI-FenglinL.pdf) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/Federated_Learning-AAAI2020-slides.pptx) 
-
-  #4. DiMBERT: Learning Vision-Language Grounded Representations with Disentangled Multimodal-Attention  
+  #7. DiMBERT: Learning Vision-Language Grounded Representations with Disentangled Multimodal-Attention  
   **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
   In ACM Transactions on Knowledge Discovery from Data (TKDD) 2021  
-  
-  #5. Bridging the Gap between Vision and Language Domains for Improved Image Captioning  
-  **Fenglin Liu**, Xian Wu, Shen Ge, Xiaoyu Zhang, Wei Fan, Yuexian Zou  
-  In ACM MM 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/09/ACM_MM2020_mmfp0774.pdf)
-  
-  #6. Exploring Semantic Relationships for Image Captioning without Parallel Data  
-  **Fenglin Liu**, Meng Gao, Tianhao Zhang, Yuexian Zou  
-  In ICDM 2019 (**Oral**) [[pdf]](https://ieeexplore.ieee.org/document/8970902) [[ppt]](https://github.com/fenglinliu98/Slides-Posters/blob/master/Unpaired_Image_Captioning-ICDM2019-slides.pptx)
 
-  #7. Non-Autoregressive Coarse-to-Fine Video Captioning  
+  #6. Non-Autoregressive Coarse-to-Fine Video Captioning  
   Bang Yang, **Fenglin Liu**, Can Zhang, Yuexian Zou  
-  In AAAI 2021  
-  
-## Natural Language Processing
-  #1. Layer-Wise Cross-View Decoding for Sequence-to-Sequence Learning  
-  **Fenglin Liu**#, Xuancheng Ren#, Guangxiang Zhao, Xu Sun, Liangyou Li  
-  [[Preprint]](https://arxiv.org/abs/2005.08081)   
-  
-  #2. Audio-Oriented Multimodal Machine Comprehension via Dynamic Inter- and Intra-modality Attention  
-  Zhiqi Huang#, **Fenglin Liu**#, Xian Wu, Shen Ge, Helin Wang, Wei Fan, Yuexian Zou  
-  In AAAI 2021  
-  
-  #3. Rethinking Skip Connection with Layer Normalization  
-  **Fenglin Liu**#, Xuancheng Ren#, Zhiyuan Zhang, Xu Sun  
-  In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING2020__rSkip_LN.pdf)  
+  In AAAI 2021 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/12/405.YangB_.pdf) [[code]](https://github.com/yangbang18/Non-Autoregressive-Video-Captioning)  
 
-  #4. Self-Adaptive Scaling for Learnable Residual Structure  
+  #5. Federated Learning for Vision-and-Language Grounding Problems  
+  **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou  
+  In AAAI 2020 (**Oral**) [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/02/AAAI-FenglinL.pdf) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/Federated_Learning-AAAI2020-slides.pptx) 
+
+  #4. Bridging the Gap between Vision and Language Domains for Improved Image Captioning  
+  **Fenglin Liu**, Xian Wu, Shen Ge, Xiaoyu Zhang, Wei Fan, Yuexian Zou  
+  In ACM MM 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/09/ACM_MM2020_mmfp0774.pdf) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/ACMMM2020-Bridging.pptx)  
+
+  #3. Exploring and Distilling Cross-Modal Information for Image Captioning  
+  **Fenglin Liu**#, Xuancheng Ren#, Yuanxin Liu, Kai Lei, Xu Sun  
+  In IJCAI 2019 (**Oral**) [[pdf]](https://www.ijcai.org/proceedings/2019/708) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/GLIED-IJCAI2019-slides.pptx)  
+
+  #2. Exploring Semantic Relationships for Image Captioning without Parallel Data  
+  **Fenglin Liu**, Meng Gao, Tianhao Zhang, Yuexian Zou  
+  In ICDM 2019 (**Oral**) [[pdf]](https://ieeexplore.ieee.org/document/8970902) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/Unpaired_Image_Captioning-ICDM2019-slides.pptx)
+  
+  #1. simNet: Stepwise Image-Topic Merging Network for Generating Detailed and Comprehensive Image Captions  
+  **Fenglin Liu**#, Xuancheng Ren#, Yuanxin Liu, Houfeng Wang, Xu Sun  
+  In EMNLP 2018 (**Oral**) [[pdf]](http://aclweb.org/anthology/D18-1013) [[code]](https://github.com/lancopku/simNet) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/simNet-EMNLP2018-slides.pptx)  
+
+## Natural Language Processing
+  #10. Layer-Wise Cross-View Decoding for Sequence-to-Sequence Learning  
+  **Fenglin Liu**#, Xuancheng Ren#, Guangxiang Zhao, Xu Sun, Liangyou Li  
+  [[Preprint]](https://arxiv.org/abs/2005.08081) [[code]](https://github.com/fenglinliu2022fall/CVD)   
+  
+  #9. Audio-Oriented Multimodal Machine Comprehension via Dynamic Inter- and Intra-modality Attention  
+  Zhiqi Huang#, **Fenglin Liu**#, Xian Wu, Shen Ge, Helin Wang, Wei Fan, Yuexian Zou  
+  In AAAI 2021 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2021/01/AAAI.HuangZ.pdf) [[code]](https://github.com/mazicwong/AOM-MC)  
+  
+  #8. Rethinking Skip Connection with Layer Normalization  
+  **Fenglin Liu**#, Xuancheng Ren#, Zhiyuan Zhang, Xu Sun  
+  In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING2020__rSkip_LN.pdf)
+
+  #7. Self-Adaptive Scaling for Learnable Residual Structure  
   **Fenglin Liu**, Meng Gao, Yuanxin Liu, Kai Lei  
-  In CoNLL 2019 [[pdf]](https://www.aclweb.org/anthology/K19-1080/)  
+  In CoNLL 2019 [[pdf]](https://www.aclweb.org/anthology/K19-1080/)
   
-  #5. Towards Data Distillation for End-to-end Spoken Conversational Question Answering  
+  #6. Towards Data Distillation for End-to-end Spoken Conversational Question Answering  
   Chenyu You, Nuo Chen, **Fenglin Liu**, Dongchao Yang, Yuexian Zou  
-  [[Preprint]]  
+  [[Preprint]](https://arxiv.org/pdf/2010.08923.pdf)  
+
+  #5. Adaptive Bi-Directional Attention: Exploring Multi-Granularity Representations for Machine Reading Comprehension  
+  Nuo Chen, **Fenglin Liu**, Chenyu You, Peilin Zhou, Yuexian Zou  
+  In ICASSP 2021 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2021/03/%E9%99%88%E8%AF%BAICASSP2021-ADAPTIVE-BI-DIRECTIONAL-.pdf)  
   
-  #6. Federated Learning for Spoken Language Understanding  
+  #4. Sentiment Injected Iteratively Co-Interactive Network for Spoken Language Understanding  
+  Zhiqi Huang, **Fenglin Liu**, Peilin Zhou, Yuexian Zou  
+  In ICASSP 2021 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2021/03/%E9%BB%84%E8%8A%9D%E7%90%AAICASSP2021.pdf)  
+  
+  #3. Federated Learning for Spoken Language Understanding  
   Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
   In COLING 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/11/COLING_2020_Federated_Learning_for_Spoken_Language_Understanding__Final_.pdf)  
-
-  #7. Generating Paraphrase with Topic as Prior Knowledge  
-  Yuanxin Liu, Zheng Lin, **Fenglin Liu**, Qinyun Dai, Weiping Wang  
-  In CIKM 2019 [[pdf]](https://dl.acm.org/doi/10.1145/3357384.3358102)  
   
-  #8. Adaptive Bi-Directional Attention: Exploring Multi-Granularity Representations for Machine Reading Comprehension  
-  Nuo Chen, **Fenglin Liu**, Chenyu You, Peilin Zhou, Yuexian Zou  
-  In ICASSP 2021  
-  
-  #9. Sentiment Injected Iteratively Co-Interactive Network for Spoken Language Understanding  
-  Zhiqi Huang, **Fenglin Liu**, Peilin Zhou, Yuexian Zou  
-  In ICASSP 2021  
-  
-  #10. PIN: A Novel Parallel Interactive Network for Spoken Language Understanding  
+  #2. PIN: A Novel Parallel Interactive Network for Spoken Language Understanding  
   Peilin Zhou, Zhiqi Huang, **Fenglin Liu**, Yuexian Zou  
   In ICPR 2020 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/06/PIN.pdf)  
+  
+  #1. Generating Paraphrase with Topic as Prior Knowledge  
+  Yuanxin Liu, Zheng Lin, **Fenglin Liu**, Qinyun Dai, Weiping Wang  
+  In CIKM 2019 [[pdf]](https://dl.acm.org/doi/10.1145/3357384.3358102)  
