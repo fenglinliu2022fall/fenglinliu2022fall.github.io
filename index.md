@@ -1,7 +1,7 @@
 # Biography
-Fenglin Liu is a Master student at Peking University. His research interests include Computational Biology, Machine Learning and Artificial Intelligence. Currently, he works on: 1) Medical Image Computing; 2) Representation/Unsupervised Learning for Multi-Modal (especially visual) NLP; 3) Natural Language Processing and Generation.
+Fenglin Liu is a Master student at Peking University. His research interests include Computational Biology, Machine Learning and Artificial Intelligence. Currently, he works on: 1) Medical Image Computing; 2) Representation / Unsupervised Learning for Multi-Modal (especially visual) NLP; 3) Natural Language Processing and Generation.
 
-He has published over ten papers in premier AI conferences as the first author (e.g., NeurIPS, CVPR, EMNLP, AAAI, IJCAI, ACMMM) and has been invited to contribute to most premier AI conferences as a Senior Program Committee member/Program Committee member/Reviewer (i.e., ICML, NeurIPS, ICLR, CVPR, ICCV, ACL, AAAI, IJCAI).
+He has published over ten papers in premier ML/AI conferences as the first author (e.g., NeurIPS, CVPR, EMNLP, AAAI, IJCAI, ACMMM) and has been invited to contribute to most premier ML/AI conferences as a (Senior) Program Committee member (i.e., ICML, NeurIPS, ICLR, CVPR, ICCV, ACL, AAAI, IJCAI).
 
 # Research Interests
 * **Computational Biology**
