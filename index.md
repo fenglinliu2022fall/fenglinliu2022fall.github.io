@@ -4,20 +4,20 @@ Fenglin Liu is a Master student at Peking University. His research interests inc
 He has published over ten papers in premier ML/AI conferences as the first author (e.g., NeurIPS, CVPR, EMNLP, AAAI, IJCAI, ACMMM) and has been invited to contribute to most premier ML/AI conferences as a (Senior) Program Committee member (i.e., ICML, NeurIPS, ICLR, CVPR, ICCV, ACL, AAAI, IJCAI).
 
 # Research Interests
-* **Computational Biology**
+  **Computational Biology**
   * Medical Image Computing  
-* **Machine Learning**
+  **Machine Learning**
   * Representation Learning
   * Unsupervised Learning
-* **Artificial Intelligence**
+  **Artificial Intelligence**
   * Vision and Language  
   * Natural Language Processing
   
 # Educations
-- **Sept. 2019 - Now.**  
+  **Sept. 2019 - Now.**  
   Master Student, Majoring in Computer Science, Peking University.
   * GPA Rank: 1/103 (1.0%)
-- **Sept. 2015 - Jul. 2019**  
+  **Sept. 2015 - Jul. 2019**  
   Bachelor of Communication Engineering, Beijing University of Posts and Telecommunications.
   * GPA Rank: 6/597 (1.0%)
 
