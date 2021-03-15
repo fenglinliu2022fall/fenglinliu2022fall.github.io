@@ -23,18 +23,18 @@ He has published over ten papers in premier ML/AI conferences as the first autho
 
 # Experiences
 * **Jan. 2018 - Now.**  
-  * Research Assistant: [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/), [Institute of Computational Linguistics](http://icl.pku.edu.cn/), [Peking University](http://www.pku.edu.cn/). Advisor: [Prof. Xu Sun](http://xusun.org/)
+  * Research Assistant: [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/), [Institute of Computational Linguistics](http://icl.pku.edu.cn/), [Peking University](http://www.pku.edu.cn/). Advisor: [Associate Professor: Xu Sun](http://xusun.org/)
   
 * **Jan. 2019 - Now.**  
-  * Research Intern: Medical AI Lab, [Tencent](https://www.tencent.com/). Advisor: [Wei Fan](https://scholar.google.com/citations?user=QvAC0OEAAAAJ) and [Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ)
+  * Research Intern: Medical AI Lab, [Tencent](https://www.tencent.com/). Advisor: [Executive Director of Medical AI Labs: Wei Fan](https://scholar.google.com/citations?user=QvAC0OEAAAAJ) and [Principal Researcher: Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ)
 
 # Honors & Awards
 * **Exceptional Award for Academic Innovation (0.6%)**, Peking University, China, 2020.
 * **National Scholarship (3.0%)**, Peking University, China, 2020.
 * **Merit Student Pacesetter (1.5%)**, Peking University, China, 2020.
-* **Top-10 Students (1.0%)**, Beijing University of Posts and Telecommunications, China, 2019.
+* **Top-10 Students (0.3%)**, Beijing University of Posts and Telecommunications, China, 2019.
 * **Outstanding Undergraduate Student**, Beijing, China, 2019.
-* **Outstanding Undergraduate Thesis**, Beijing University of Posts and Telecommunications, China, 2019.
+* **Outstanding Undergraduate Thesis**, Beijing, China, 2019.
 
 # Services
 * **Senior Program Committee Member:** [IJCAI 2021](https://ijcai-21.org/)  
