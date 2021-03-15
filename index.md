@@ -46,12 +46,12 @@ He has published over ten papers in premier ML/AI conferences as the first autho
 (#: Equal Contribution)
 ## Computational Biology    
   #1. Exploring and Distilling Posterior and Prior Knowledge for Medical Report Generation  
-  **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou  
+  **Fenglin Liu**, Xian Wu, Shen Ge, Wei Fan  
   In CVPR 2021  
 
 ## Machine Learning
   #2. Prophet Attention: Predicting Attention with Future Attention  
-  **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
+  **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Xu Sun  
   In NeurIPS 2020 [[pdf]](https://proceedings.neurips.cc/paper/2020/file/13fe9d84310e77f13a6d184dbf1232f3-Paper.pdf) [[code]](https://github.com/fenglinliu2022fall/ProphetAttention) [[ppt]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/NeurIPS2020_ProphetAttention_slides.pptx) [[poster]](https://github.com/fenglinliu2022fall/Slides-Posters/blob/master/NeurIPS2020_ProphetAttention_poster.pdf)  
   
   #1. Aligning Visual Regions and Textual Concepts for Semantic-Grounded Image Representations  
@@ -60,7 +60,7 @@ He has published over ten papers in premier ML/AI conferences as the first autho
   
 ## Vision and Language
   #7. DiMBERT: Learning Vision-Language Grounded Representations with Disentangled Multimodal-Attention  
-  **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou, Xu Sun  
+  **Fenglin Liu**, Xuancheng Ren, Xian Wu, Shen Ge, Wei Fan, Xu Sun  
   In ACM Transactions on Knowledge Discovery from Data (TKDD) 2021  
 
   #6. Non-Autoregressive Coarse-to-Fine Video Captioning  
@@ -93,7 +93,7 @@ He has published over ten papers in premier ML/AI conferences as the first autho
   [[Preprint]](https://arxiv.org/abs/2005.08081) [[code]](https://github.com/fenglinliu2022fall/CVD)   
   
   #9. Audio-Oriented Multimodal Machine Comprehension via Dynamic Inter- and Intra-modality Attention  
-  Zhiqi Huang#, **Fenglin Liu**#, Xian Wu, Shen Ge, Helin Wang, Wei Fan, Yuexian Zou  
+  Zhiqi Huang#, **Fenglin Liu**#, Xian Wu, Shen Ge, Helin Wang, Wei Fan  
   In AAAI 2021 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2021/01/AAAI.HuangZ.pdf) [[code]](https://github.com/mazicwong/AOM-MC)  
   
   #8. Rethinking Skip Connection with Layer Normalization  
