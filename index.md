@@ -26,11 +26,12 @@ He has published over ten papers in premier ML/AI conferences as the first autho
   * Research Intern: Medical AI Lab, [Tencent](https://www.tencent.com/). Advisor: [Executive Director of Lab: Wei Fan](https://scholar.google.com/citations?user=QvAC0OEAAAAJ) and [Principal Researcher: Xian Wu](https://scholar.google.com/citations?user=lslB5jkAAAAJ)
 
 * **Jan. 2018 - Now.**  
-  * Research Assistant: [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/), [Institute of Computational Linguistics](http://icl.pku.edu.cn/), [Peking University](http://www.pku.edu.cn/). Advisor: [Associate Professor: Xu Sun](http://xusun.org/)
+  * Research Assistant: [Language Computing and Machine Learning Group](http://lanco.pku.edu.cn/), [Institute of Computational Linguistics](http://icl.pku.edu.cn/), [Peking University](http://www.pku.edu.cn/). Advisor: [Professor: Xu Sun](http://xusun.org/)
 
 # Honors & Awards
 * **Exceptional Award for Academic Innovation (0.6%)**, Peking University, China, 2021.
 * **National Scholarship (3.0%)**, Peking University, China, 2021.
+* **Merit Student Pacesetter (1.5%)**, Peking University, China, 2021.
 * **Exceptional Award for Academic Innovation (0.6%)**, Peking University, China, 2020.
 * **National Scholarship (3.0%)**, Peking University, China, 2020.
 * **Merit Student Pacesetter (1.5%)**, Peking University, China, 2020.
@@ -64,7 +65,7 @@ He has published over ten papers in premier ML/AI conferences as the first autho
   In ACM Transactions on Knowledge Discovery from Data (TKDD) 2021  
 
   #6. Non-Autoregressive Coarse-to-Fine Video Captioning  
-  Bang Yang, **Fenglin Liu**, Can Zhang, Yuexian Zou  
+  Bang Yang, Can Zhang, **Fenglin Liu**, Yuexian Zou  
   In AAAI 2021 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2020/12/405.YangB_.pdf) [[code]](https://github.com/yangbang18/Non-Autoregressive-Video-Captioning)  
 
   #5. Federated Learning for Vision-and-Language Grounding Problems  
@@ -97,7 +98,7 @@ He has published over ten papers in premier ML/AI conferences as the first autho
   In AAAI 2021 [[pdf]](http://web.pkusz.edu.cn/adsp/files/2021/01/AAAI.HuangZ.pdf) [[code]](https://github.com/mazicwong/AOM-MC)  
   
   #8. Rethinking Skip Connection with Layer Normalization  
-  **Fenglin Liu**#, Xuancheng Ren#, Zhiyuan Zhang, Xu Sun  
+  **Fenglin Liu**#, Xuancheng Ren#, Zhiyuan Zhang, Xu Sun, Yuexian Zou  
   In COLING 2020 [[pdf]](https://www.aclweb.org/anthology/2020.coling-main.320/)
 
   #7. Self-Adaptive Scaling for Learnable Residual Structure  
